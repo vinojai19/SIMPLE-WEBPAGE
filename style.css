@@ -1,0 +1,123 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Ancizar Sans", sans-serif;
+}
+
+.container {
+    padding: 50px;
+}
+.SECTIONONE{
+    background-color: #a057a140;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.SECTIONONE__CONTACT {
+    background-color: black;
+    color: white;
+    text-decoration: double;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.SECTIONONE__NAME {
+    font-size: 50px;
+}
+
+.SECTIONONE__ROLE {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sectiontwo__des{
+    font-size: large;
+    text-align: center;
+}
+.sectiontwo__title,
+.sectionthree__title,
+.sectionfour__title {
+font-size: 30px;
+text-align: center;
+text-decoration: double;
+}
+.sectiontwo,
+.sectionthree,
+.sectionfour,
+.sectionfive {
+    margin-top: 20px;
+}
+
+.sectiontwo__des,
+.sectionthree__des,
+.sectionfour__des,
+.sectionfive__des {
+    margin-top: 20px;
+}
+
+.sectionfive {
+    background-color: rgb(247, 236, 236);
+    color: #F05F5F
+    padding: 20px;
+}
+
+.sectionfive__title a {
+    color:brown;
+
+}
+
+.sectionthree li,
+.sectionfour li {
+    list-style: none;
+}
+
+.sectionthree {
+    background-color: rgb(241, 169, 181);
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.sectionfour {
+    background-color: #b96b6b;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.contactform{
+    margin-top: 20px;
+
+}
+.contactform__input,.contactform__textarea,.contactform__sumbit{
+    margin-top: 10px;
+}
+.contactform__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contactform__textarea{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contactform__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #F05F5F;
+    color: wheat;
+    border: black;
+}
