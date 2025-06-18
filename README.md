@@ -12,7 +12,7 @@ This is a simple portfolio website for a **web page developer**, built using **H
 - CSS3
 
 ## 📸 Live Preview
-
+https://vinojai19.github.io/SIMPLE-WEBPAGE/
 
 ## 🤝 Contributing
 
